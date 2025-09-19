@@ -9,48 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Available [here](../files/CV_LDM.pdf).
+Available [here](../files/CV_JW.pdf).
 
 # Short CV
 
 ## Education
-* PhD in Statistics, School of Mathematics, The University of Edinburgh (expected 2026)
-  * Supervisors: Ioannis Papastathopoulos, Gabriele C. Hegerl
-* Visiting PhD student, King Abdullah University of Science and Technology (KAUST) (February 2023, February-June 2024, November 2024) 
+* PhD in Statistics, Department of Statistics and Data Science, Carnegie Mellon University (July 2025)
+  * Advisor: Mikael Kuusela
+* BS in Mathematics, BA in Statistics with honors, Minor in Computer Science, University of Chicago (2016-2020)
+
+## Professional experience
+*Associate Research Fellow, University of Wollongong (May 2024 - January 2025) 
+  * Supervisor: Andrew Zammit--Mangion
+* Visiting PhD student, King Abdullah University of Science and Technology (KAUST) (November 2024) 
   * Supervisor: Raphaël Huser
-* MSc in Mathematics and Statistics, McGill University (2020-2022)
-  * Supervisor: Christian Genest
-* BSc in Mathematics and Computer Science, McGill University (2017-2020)
 
-## Work experience
 
-### Hydro-Québec Research Institute (IREQ), Statistician intern
+## Teaching Experience
 
-* Research partnership to develop methods for the statistical post-treatment of weather forecasts, specifically of extreme meteorological events. (Jan. 2022 – Aug. 2022)
+### Lead Instructor
 
-### Teaching Assistantships
+* Carnegie Mellon University
+  * Data Engineering and Distributed Environments (Fall 2025)
 
-* University of Edinburgh
-  * MATH10064 – Multivariate Data Analysis (Jan. 2025 – May. 2025)
-  * MATH10093 – Statistical Computing (Jan. 2025 – May. 2025)
-  * MATH10096 – Applied Statistics (Jan. 2025 – May. 2025)
-  * MATH11176 – Extended Statistical Programming (Sep. 2023 – Dec. 2023)
-  * MATH11187 – Generalised Regression Models (Sep. 2023 – Dec. 2023)
-  * MATH08066 – Probability (Sep. 2023 – Dec. 2023)
-  * MATH10093 – Statistical Computing (Jan. 2023 – May 2023)
-  * MATH08051 – Statistics (Jan. 2023 – May 2023)
+### Head Teaching Assistant
 
-* McGill University
-  * MATH 324 – Statistics (Jan. 2022 – May 2022)
-  * MATH 323 – Probability (Sep. 2021 – Dec. 2021)
-  * MATH 203 – Principles of Statistics (Jan. 2021 – May 2021)
-  * Statistics Helpdesk
-    * Providing help to undergraduate students in Statistics and Probability. Theoretical and programming guidance for courses in the range MATH 2XX - 5XX.
-  * Undergraduate Project Guidance
-    * Guidance of three students towards the completion of an undergraduate project in extreme value theory.
-      * MATH 470 (Jan. 2022 – May 2022)
-      * MATH 410 (Jan. 2021 – May 2021 and Sep. 2021 – Dec. 2021)
+* Carnegie Mellon University
+  * Advanced Methods for Data Analysis (Spring 2024)
+  * Statistical Graphics and Visualization (Fall 2022)
 
+### Teaching Assistant
+
+* Carnegie Mellon University
+  * 36315 – Statistical Graphics and Visualization (Fall 2023)
+  * 36618 – Time Series and Experimental Design (Spring 2022,Spring 2023)
+  * 36200 – Reasoning with Data (Summer 2022)
+  * 36219 – Probability Theory and Random Processes (Spring 2021)
+  * 36650 – Statistical Computing (Fall 2021)
+  * 36401 – Modern Regression (Fall 2020)
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Service and leadership
+======
+* Served as referee for The Annals of Applied Statistics
 
 <!-- Skills
 ======
@@ -60,12 +66,6 @@ Available [here](../files/CV_LDM.pdf).
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -79,6 +79,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
