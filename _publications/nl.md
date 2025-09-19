@@ -1,7 +1,7 @@
 ---
 title: "Neural Likelihood Surfaces for Spatial Processes with Computationally Intensive or Intractable Likelihoods"
 collection: publications
-category: Journal Articles
+category: journals
 permalink: /publication/nl
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-10-01

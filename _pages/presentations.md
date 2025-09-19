@@ -8,13 +8,9 @@ redirect_from:
 
 ## Invited Talks
 
-  * [Neural Conditional Simulation for Complex Spatial Processes](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events), University of Edinburgh Generative AI Laboratory: *Generative modelling of multivariate geometric extremes using normalising flows*. (Jun. 2025)
-  * [Statistics seminar](https://www.exeter.ac.uk/events/details/index.php?event=14776), University of Exeter: *Geometric extreme value theory – A normalising flows approach*. (Feb. 2025)
-  * 18th International Conference on Computational and Methodological Statistics ([CMStatistics](https://www.cmstatistics.org/CFECMStatistics2024/)), London: *Geometric extreme value theory – A normalising flows approach*. (Dec. 2024)
-  * 17th International Conference on Computational and Methodological Statistics ([CMStatistics](https://www.cmstatistics.org/CMStatistics2023/)), Berlin: *Bayesian inference for radially-stable distributions*. (Dec. 2023)
-  * [BIRS-IMAG workshop](https://wpd.ugr.es/~imag/events/event/23w6006/) on Modern Statistical and Machine Learning Approaches for High-Dimensional Compound Spatial Extremes (short presentation): *Geometric inference for Husler–Reiss random vectors*. (May 2023)
-  * [Séminaires de sciences de la décision HEC Montréal](https://hecsciencesdecision.github.io/presentations/archives/2023-09-29.html): *Multivariate extremes – A geometric Bayesian inference approach*. (Sep. 2023)
-
+  * [Conference Talk](https://rss.org.uk/training-events/conference-2025/), Royal Statistical Society International Conference: *Neural Conditional Simulation for Complex Spatial Processes*. (Sept. 2025)
+  * [Conference Talk](), The International Environmentrics Society (TIES): *Neural Conditional Simulation for Complex Spatial Processes*. (November 2024)
+  * [Seminar] Extremes Research Group, King Abdullah University of Science and Technology: *Neural Conditional Simulation for Complex Spatial Processes*. (November 2024)
 
 ## Contributed 
 
