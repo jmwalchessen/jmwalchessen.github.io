@@ -48,34 +48,15 @@ Available [here](../files/CV_JW.pdf).
   * 36650 – Statistical Computing (Fall 2021)
   * 36401 – Modern Regression (Fall 2020)
 
-Publications
+### Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+### Service and leadership
 ======
 * Served as referee for The Annals of Applied Statistics
 
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
