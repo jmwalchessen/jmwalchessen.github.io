@@ -6,18 +6,12 @@ redirect_from:
   - /software.html
 ---
 
-## [geometricExtremesNF](https://github.com/lambertdem/geometricExtremesNF) Python code
+## [NeuralLikelihood](https://github.com/jmwalchessen/neural_likelihood) Python code
 
-A generative modelling approach for multivariate extremes based on:
+A neural inference approach to learning likelihoods of complex spatial processes based on:
 
-De Monte, L., Huser, R., Papastathopoulos, I., and Richards, J. (2025) 'Generative modelling of multivariate geometric extremes using normalising flows', [arXiv](https://arxiv.org/abs/2505.02957) preprint.
+Walchessen, J., Lenzi, A., Kuusela, M. (2023) 'Neural Likelihood Surfaces for Computationally Intensive
+or Intractable Likelihooods', [Spatial Statistics](https://www.sciencedirect.com/science/article/pii/S2211675324000393).
 
-<p align="center"><img src="/images/T_S_to_C.png" width="80%" /> </p>
+<p align="center"><img src="/images/nl_surfaces_with_titles.png" width="80%" /> </p>
 
-## [geometricExtremes](https://github.com/ipapasta/geometricExtremes) R package
-
-A Bayesian approach to extreme value analysis based on:
-
-Papastathopoulos, I., De Monte, L., Campbell, R. and Rue, H. (2023) 'Statistical inference for radial generalized Pareto distributions and return sets in geometric extremes', [arXiv](https://arxiv.org/abs/2310.06130) preprint.
-
-<p align="center"><img src="/images/GaussCop_LapMargins.gif" width="70%" height="70%"/> </p>
