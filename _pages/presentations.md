@@ -8,7 +8,7 @@ redirect_from:
 
 ## Invited Talks
 
-  * [Generative AI Modelling for Extreme Events](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events), University of Edinburgh Generative AI Laboratory: *Generative modelling of multivariate geometric extremes using normalising flows*. (Jun. 2025)
+  * [Neural Conditional Simulation for Complex Spatial Processes](https://gail.ed.ac.uk/news-and-events/events/generative-ai-modelling-for-extreme-events), University of Edinburgh Generative AI Laboratory: *Generative modelling of multivariate geometric extremes using normalising flows*. (Jun. 2025)
   * [Statistics seminar](https://www.exeter.ac.uk/events/details/index.php?event=14776), University of Exeter: *Geometric extreme value theory – A normalising flows approach*. (Feb. 2025)
   * 18th International Conference on Computational and Methodological Statistics ([CMStatistics](https://www.cmstatistics.org/CFECMStatistics2024/)), London: *Geometric extreme value theory – A normalising flows approach*. (Dec. 2024)
   * 17th International Conference on Computational and Methodological Statistics ([CMStatistics](https://www.cmstatistics.org/CMStatistics2023/)), Berlin: *Bayesian inference for radially-stable distributions*. (Dec. 2023)

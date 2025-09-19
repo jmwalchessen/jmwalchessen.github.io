@@ -23,11 +23,11 @@ repository               : "jmwalchessen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Julia {Walchessen}"
+  name             : "Julia Walchessen"
   pronouns         : "she/her"  
   bio              : "Postdoc in Statistics"
   location         : "Pittsburgh, USA"
-  employer         : "Carnegie Mellon University"
+  employer         : "Carnegie Mellon"
   uri              : # URL
   email            : "jwalches@andrew.cmu.edu" 
 

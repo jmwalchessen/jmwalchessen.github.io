@@ -2,7 +2,7 @@
 title: "Neural Conditional Simulation for Complex Spatial Processes"
 collection: publications
 category: preprints
-permalink: ""
+permalink: publication/ncs
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-08-27
 venue: 'arXiv'
