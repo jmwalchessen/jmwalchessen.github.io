@@ -8,18 +8,18 @@ redirect_from:
 
 ## Invited Talks
 
-  * [Conference Talk](https://rss.org.uk/training-events/conference-2025/), Royal Statistical Society International Conference: *Neural Conditional Simulation for Complex Spatial Processes*. (Sept. 2025)
-  * [Conference Talk](), The International Environmentrics Society (TIES): *Neural Conditional Simulation for Complex Spatial Processes*. (November 2024)
-  * [Seminar] Extremes Research Group, King Abdullah University of Science and Technology: *Neural Conditional Simulation for Complex Spatial Processes*. (November 2024)
+  * [Conference Talk](https://rss.org.uk/training-events/conference-2025/), Royal Statistical Society International Conference: *Neural Conditional Simulation for Complex Spatial Processes*. Edinburgh, UK (Sept. 2025)
+  * [Conference Talk](https://www.isi-next.org/conferences/ties2024/), The International Environmentrics Society (TIES) Conference: *Neural Conditional Simulation for Complex Spatial Processes*. Adelaide, Australia (November 2024)
+  * [Seminar] Extremes Research Group, King Abdullah University of Science and Technology: *Neural Conditional Simulation for Complex Spatial Processes*. Jeddah, Saudi Arabia (November 2024)
+  * [Conference Talk](https://ww2.amstat.org/meetings/jsm/2024/index.cfm), ASA Environmental Student Paper Award Section, Joint Statistical Meetings: *Neural Likelihood Surfaces for Complex Spatial Processes*. Portland, Oregon (August 2024)
 
-## Contributed 
+## Contributed Talks
+* [Conference Talk](https://www.elsevier.com/events/conferences/all/spatial-statistics), Spatial Statistics Conference: *Neural Conditional Simulation for Complex Spatial Processes*. Noordwijk, Netherlands (July 2025)
+* [Conference Talk](https://www.siam.org/conferences-events/past-event-archive/cse25/), Conference on Computational Science and Engineering, Society for Industrial and Applied Mathematics: *Neural Conditional Simulation for Complex Spatial Processes*. Fort Worth, Texas (March 2025)
+* [Conference Talk](https://ww2.amstat.org/meetings/jsm/2023/), Joint Statistical Meetings: *Neural Likelihood Surfaces for Complex Spatial Processes*. Toronto, Canada (August 2023)
+* [Conference Talk](https://isi-web.org/event-detail/81), Spatial Statistics Conference: *Neural Likelihood Surfaces for Complex Spatial Processes*. Boulder, Colorado (July 2023)
 
-### Talks
 
-  * [14th International Conference on Extreme Value Analysis](https://eva2025.unc.edu/): *Generative modelling of multivariate geometric extremes using normalising flows* (Jun. 2025)
-  * [15th International Meeting on Statistical Climatology](http://www.meteo.fr/cic/meetings/2024/IMSC/): *Flood risk modelling using geometric extreme value theory*. (Jun. 2024)
+## Posters
 
-### Posters
-
-  * University of Edinburgh [Centre for Statistics Annual Conference 2024](https://centreforstatistics.maths.ed.ac.uk/events/the-cfs-annual-conference/cfs-annual-conference-2024): *Multivariate radial Pareto distributions: a geometric approach to the statistical modelling of multivariate extremes*. (Jun. 2024)
-  * [13th International Conference on Extreme Value Analysis](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023): *Bayesian approach to geometric inference for multivariate extremes*. (Jun. 2023)
+  * King Abdullah University of Science and Technology (KAUST) [KAUST 2024 Workshop on Statistics](https://cemse.kaust.edu.sa/events/by-type/workshop/2024/11/18/kaust-2024-workshop-statistics): *Neural Conditional Simulation for Complex Spatial Processes*. (November 2024)
