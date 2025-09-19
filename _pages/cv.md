@@ -19,10 +19,16 @@ Available [here](../files/CV_JW.pdf).
 * BS in Mathematics, BA in Statistics with honors, Minor in Computer Science, University of Chicago (2016-2020)
 
 ## Professional experience
-*Associate Research Fellow, University of Wollongong (May 2024 - January 2025) 
+* Associate Research Fellow, University of Wollongong (May 2024 - January 2025) 
   * Supervisor: Andrew Zammit--Mangion
 * Visiting PhD student, King Abdullah University of Science and Technology (KAUST) (November 2024) 
   * Supervisor: Raphaël Huser
+
+## Awards
+* ENVR Student Paper Award Winner 2024
+  * The paper Neural Likelihood Surfaces was selected as one of two winning papers in the annual ENVR student paper competition.
+* Oral Presentation Award, Spatial Statistics Conference 2023
+  * Determined by popular vote for a talk on the paper Neural Likelihood Surfaces
 
 
 ## Teaching Experience
@@ -49,13 +55,11 @@ Available [here](../files/CV_JW.pdf).
   * 36401 – Modern Regression (Fall 2020)
 
 ### Publications
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ### Service and leadership
-======
 * Served as referee for The Annals of Applied Statistics
 
 
